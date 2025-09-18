@@ -15,7 +15,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","iamakki001")
+OWNER_USERNAME = getenv("OWNER_USERNAME","iamakii73")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "kuku_music_bot")
 # --------------------------------------------------------
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5909658683))
+OWNER_ID = int(getenv("OWNER_ID", 8041311342))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -58,7 +58,7 @@ API_KEY = getenv("API_KEY", '') # youtube song api key
 #----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://t.me/User_Not_available_since")
+SOURCE = getenv("SOURCE", "https://t.me/iamakii73")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/aditya88402/Heistsnetwork",
@@ -76,7 +76,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/User_Not_available_since")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/iamakii73")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TG_HEISTS")
 CHAT = getenv("CHAT", "https://t.me/TG_HEISTS")
 # ------------------------------------------------------------------------------
