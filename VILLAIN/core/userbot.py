@@ -24,7 +24,7 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("TG_HEISTS")
-                await self.one.join_chat("User_Not_available_since")
+                await self.one.join_chat("iamakii73")
             except:
                 pass
             assistants.append(1)
