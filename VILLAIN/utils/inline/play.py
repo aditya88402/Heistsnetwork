@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
          [
-             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/User_Not_available_since"),
+             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/iamakii73"),
              
              InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/+o7_uPKxtL5hkY2Q1")
          ],
@@ -89,9 +89,9 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
          ],
         [
-             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/ll_NOBITA_DEFAULTERS_ll"),
+             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/iamakii73"),
              
-             InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/+DRlOUMim-SdjOWJl")
+             InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/+o7_uPKxtL5hkY2Q1")
          ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
@@ -242,10 +242,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/ll_NOBITA_DEFAULTERS_ll"
+                text="ᴏᴡɴᴇʀ", url=f"https://t.me/iamakii73"
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+DRlOUMim-SdjOWJl"
+                text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+o7_uPKxtL5hkY2Q1"
             ),
         ],
 
