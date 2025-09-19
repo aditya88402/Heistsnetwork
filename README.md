@@ -2,11 +2,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝓢𝓦𝓐𝓡𝓐 𝓑𝓞𝓣𝓢+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝓢𝓦𝓐𝓡𝓐 𝓑𝓞𝓣𝓢</b></h1>
-<p align="center"><a href="https://t.me/iamakki001"><img src="https://files.catbox.moe/i7uj2i.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/iamakii73"><img src="https://files.catbox.moe/i7uj2i.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
-<b>![𝓢𝓦𝓐𝓡𝓐 𝓑𝓞𝓣𝓢](https://t.me/User_Not_available_since")</b>
+<b>![𝓢𝓦𝓐𝓡𝓐 𝓑𝓞𝓣𝓢](https://t.me/iamakii73")</b>
 
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 <h3 align="center">
@@ -43,13 +43,13 @@
 
 <details>
 <summary><b>𝗦𝗨𝗣𝗣𝗢𝗥𝗧</b></b></summary>
-<a href="https://t.me/User_Not_available_since"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/iamakii73"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <details>
 <summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></b></summary>
-<a href="https://t.me/User_Not_available_since"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/iamakii73"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
