@@ -11,8 +11,8 @@ start_txt = """
 
 ┏━━━━━━━━━━━━━━━━━⧫
 ┠ ◆ **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:** [Click Here](https://github.com/aditya88402/Heistsnetwork)  
-┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [༐🇹 𝐡༒ 𝐦𝐚𝐮𝐫𝐲𝐚𝐯𝐚𝐧𝐬𝐡𝐢](https://t.me/User_Not_available_since)
-┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [@User_Not_available_since](https://t.me/User_Not_available_since)
+┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [༐🇹 𝐡༒ 𝐦𝐚𝐮𝐫𝐲𝐚𝐯𝐚𝐧𝐬𝐡𝐢](https://t.me/iamakii73)
+┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [@iamakii73](https://t.me/iamakii73)
 ┗━━━━━━━━━━━━━━━━━⧫
 
 __Fᴏʀᴋ ɪᴛ, ᴄᴜsᴛᴏᴍɪᴢᴇ ɪᴛ, ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ ʏᴏᴜʀ ᴏᴡɴ!__
@@ -60,7 +60,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/User_Not_available_since) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/+o7_uPKxtL5hkY2Q1)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/iamakii73) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/+o7_uPKxtL5hkY2Q1)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
