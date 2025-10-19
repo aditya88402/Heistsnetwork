@@ -11,8 +11,8 @@ start_txt = """
 
 ┏━━━━━━━━━━━━━━━━━⧫
 ┠ ◆ **sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ:** [Click Here](https://github.com/aditya88402/Heistsnetwork)  
-┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [༐🇹 𝐡༒ 𝐦𝐚𝐮𝐫𝐲𝐚𝐯𝐚𝐧𝐬𝐡𝐢](https://t.me/iamakii73)
-┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [@iamakii73](https://t.me/iamakii73)
+┠ ◆ **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** [༐DEV](https://t.me/I_VAMPIRE_KING)
+┠ ◆ **ʀᴇʟᴇᴀsᴇᴅ ʙʏ:** [@I_VAMPIRE_KING](https://t.me/I_VAMPIRE_KING)
 ┗━━━━━━━━━━━━━━━━━⧫
 
 __Fᴏʀᴋ ɪᴛ, ᴄᴜsᴛᴏᴍɪᴢᴇ ɪᴛ, ᴀɴᴅ ᴍᴀᴋᴇ ɪᴛ ʏᴏᴜʀ ᴏᴡɴ!__
@@ -27,7 +27,7 @@ async def start(_, msg):
     buttons = [
         [
                 InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/+o7_uPKxtL5hkY2Q1"),
-                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘", url="https://t.me/TG_HEISTS")
+                InlineKeyboardButton("𝗨𝗣𝗗𝗔𝗧𝗘", url="https://t.me/TG_HEIST")
         ],
         [ 
           InlineKeyboardButton("𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘", url=f"https://github.com/aditya88402/Heistsnetwork")
