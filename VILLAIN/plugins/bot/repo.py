@@ -60,7 +60,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/iamakii73) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/+o7_uPKxtL5hkY2Q1)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/I_VAMPIRE_KING) | [𝖦𝖱𝖮𝖴𝖯](https://t.me/+o7_uPKxtL5hkY2Q1)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
