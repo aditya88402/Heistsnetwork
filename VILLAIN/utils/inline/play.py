@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
          [
-             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/iamakii73"),
+             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/I_VAMPIRE_KING"),
              
              InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/+o7_uPKxtL5hkY2Q1")
          ],
@@ -89,7 +89,7 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
          ],
         [
-             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/iamakii73"),
+             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/I_VAMPIRE_KING"),
              
              InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/+o7_uPKxtL5hkY2Q1")
          ],
@@ -242,7 +242,7 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/iamakii73"
+                text="ᴏᴡɴᴇʀ", url=f"https://t.me/I_VAMPIRE_KING"
             ),
             InlineKeyboardButton(
                 text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+o7_uPKxtL5hkY2Q1"
