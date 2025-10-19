@@ -23,8 +23,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TG_HEISTS")
-                await self.one.join_chat("iamakii73")
+                await self.one.join_chat("TG_HEIST")
+                await self.one.join_chat("I_VAMPIRE_KING")
             except:
                 pass
             assistants.append(1)
